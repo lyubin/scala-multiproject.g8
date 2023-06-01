@@ -1,0 +1,1 @@
+# scala-multiproject.g8
